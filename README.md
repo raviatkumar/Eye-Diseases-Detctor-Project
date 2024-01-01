@@ -12,7 +12,7 @@ Diabetic retinopathy, a complication arising from diabetes, impacts the blood ve
 
 Glaucoma, a cluster of eye diseases, damages the optic nerve, often due to heightened fluid pressure in the eye. It manifests as gradual vision loss, starting with peripheral vision and potentially progressing to complete blindness. Timely diagnosis, treatment, and ongoing monitoring are imperative for preserving vision and preventing irreversible damage.
 
-![Alt text](https://raw.githubusercontent.com/raviatkumar/Eye-Diseases-Detctor-Project/main/images/eye.jpg)
+![Alt text](https://raw.githubusercontent.com/raviatkumar/Eye-Diseases-Detctor-Project/main/images/Protect-Your-Vision.jpg)
 
 Concerning its applications, eye disease classification serves pivotal roles in various scenarios:
 
